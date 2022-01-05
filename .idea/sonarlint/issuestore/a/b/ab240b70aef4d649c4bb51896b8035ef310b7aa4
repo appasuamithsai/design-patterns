@@ -1,0 +1,19 @@
+
+W
+java:S1854"<Remove this useless assignment to local variable "projects".(âÔ¾ùÿÿÿÿ
+N
+java:S1854"8Remove this useless assignment to local variable "cgpa".(·Ø‘£
+X
+java:S1854"=Remove this useless assignment to local variable "education".(›ğšçùÿÿÿÿ
+Y
+java:S1854">Remove this useless assignment to local variable "experience".(ÅÂëûüÿÿÿÿ
+J
+java:S1481"/Remove this unused "experience" local variable.(ÅÂëûüÿÿÿÿ
+I
+java:S1481".Remove this unused "education" local variable.(›ğšçùÿÿÿÿ
+?
+java:S1481")Remove this unused "cgpa" local variable.(·Ø‘£
+H
+java:S1481"-Remove this unused "projects" local variable.(âÔ¾ùÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(Î¬òë
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÔãŸæûÿÿÿÿ
