@@ -1,0 +1,18 @@
+
+Z
+java:S1854"8Remove this useless assignment to local variable "sham".(ÿÄ“¨ıÿÿÿÿ8Ï‰¥æ/
+R
+java:S1854
+"7Remove this useless assignment to local variable "ram".(¶Ñ‡«úÿÿÿÿ
+C
+java:S1481
+"(Remove this unused "ram" local variable.(¶Ñ‡«úÿÿÿÿ
+K
+java:S1481")Remove this unused "sham" local variable.(ÿÄ“¨ıÿÿÿÿ8Ó‰¥æ/
+M	java:S106"9Replace this use of System.out or System.err by a logger.( ©
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ãÂØóüÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¸ä”
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+]	java:S125"<This block of commented-out lines of code should be removed.(‚şï›úÿÿÿÿ8×‰¥æ/
+^
+java:S1128"<Remove this unused import 'javax.swing.plaf.IconUIResource'.(œñ†®øÿÿÿÿ8Ş“†¥æ/
